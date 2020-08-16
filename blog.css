@@ -3,12 +3,12 @@
   }
 
 .blogtitle::after {
-    content: "Welcome to Aero Client";
+    content: "Updates, and the site is back!";
 }
 
 .blogcontent::after {
     font-weight: bold;
-    content: "Aero Client is a modpack and a client-side anticheat built for Minecraft 1.7.10 and 1.8.9. The goal and mission of Aero Client is to provide an alternative to the mainstream clients such as Lunar Client, Badlion Client, and PvPLounge Client. Aero Client has all the mods you would need for HCF, Practice, and many more gamemodes. In the early stages of release, players may encounter issues related to gameplay, or with the launcher. Thank you for being patient with us and supporting us while we bring Aero Client back to it's original state. We will be pushing out multiple updates in the coming days to make the client better in the ways that we can.";
+    content: "After 3 long months, we finally have brought the Aero Client site back! You may find that at http://aeroclient.tk. We have updated Aero Client 1.7.10 over the past few days, we have removed voice settings and we are looking to add new options to the current mods in Aero Client, that includes new backgrounds for the CPS mods and FPS mods and possibly an option to toggle between the 2017 keystrokes and the current ones, more information on this soon. Be sure to join the discord on the site, we are aware that the current link on the launcher is broken.";
 }
 
 .versiontext::after {
