@@ -1,5 +1,5 @@
 .changelogtitle::after {
-    content: "Client Update [94f2a53 -> 1ae9eef]";
+    content: "Client Update [1ae9eef -> 350cb7a]";
 }
 
 .changelogauthor::after {
@@ -7,6 +7,6 @@
 }
 
 .changelogcontent::after {
-    content: "Aero Client 1.7.10 has received a few updates in the past few days, adding new cloaks, and removing a few voice chat settings from the client. If you're still having issues launching 1.7.10, we are working on getting this issue fixed.";
+    content: "Aero Client 1.7.10 has received one of it's very first mod updates! We have added parentheses around the direction you are facing, soon we are adding different modes for the FPS and CPS mods.";
     top: -10%;
 }
