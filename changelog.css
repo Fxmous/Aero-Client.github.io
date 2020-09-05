@@ -1,5 +1,5 @@
 .changelogtitle::after {
-    content: "Client Update [1ae9eef -> 350cb7a]";
+    content: "Client Update [Legacy -> Custom]";
 }
 
 .changelogauthor::after {
@@ -7,6 +7,6 @@
 }
 
 .changelogcontent::after {
-    content: "Aero Client 1.7.10 has received one of it's very first mod updates! We have added parentheses around the direction you are facing, soon we are adding different modes for the FPS and CPS mods.";
+    content: "Aero Client Custom 1.7.10's main menu has been halfway completed for the most part, still a few bugs to fix but not too many, ingame GUI has been made, just needs to have a bit of style! If you have suggestions DM Fxmous#0001 on Discord, we are adding lots of suggestions so start submitting!";
     top: -10%;
 }
