@@ -3,18 +3,18 @@
   }
 
 .blogtitle::after {
-    content: "Updates, and the site is back!";
+    content: "Moving away from CheatBreaker";
 }
 
 .blogcontent::after {
     font-weight: bold;
-    content: "After 3 long months, we finally have brought the Aero Client site back! You may find that at http://aeroclient.tk. We have updated Aero Client 1.7.10 over the past few days, we have removed voice settings and we are looking to add new options to the current mods in Aero Client, that includes new backgrounds for the CPS mods and FPS mods and possibly an option to toggle between the 2017 keystrokes and the current ones, more information on this soon. Be sure to join the discord on the site, we are aware that the current link on the launcher is broken.";
+    content: "After a very long time of being a reskin of CheatBreaker, we had finally made the decision to move away from CheatBreaker, and create our own client! This new client will include Hats, Emotes, Masks, Wings, and many more! We have already gotten very far in development, and will hopefully get further soon, we plan to do public beta testing soon however it is unclear as to when we will do that, but rest assured we will deliver better features and make the experience for our users better in every way. We are also accepting Beta Tester applications! You may find that in the discord.";
 }
 
 .versiontext::after {
-    content: "Powered by CiCi Games LLC • 2.0.20"
+    content: "Powered by CiCi Games LLC • 2.0.21"
 }
 
 .launcher-version::after {
- content: "v2.0.20"
+ content: "v2.0.21"
 }
