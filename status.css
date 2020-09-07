@@ -7,8 +7,8 @@
 }
 
 .serverstatus1::after {
-    content: "DOWN";
-    color: red;
+    content: "UP";
+    color: green;
 }
 
 .serverstatus2::after {
